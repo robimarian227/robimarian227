@@ -2,7 +2,7 @@
 
 ### 🎓 MSc Student @ UNSTPB | 💻 Aspiring Software Developer | 🚛 Transport Systems Enthusiast
 
-I am a 2nd-year Master's student at the **Faculty of Transport, National University of Science and Technology Politehnica Bucharest (UNSTPB)**. I am passionate about how technology can solve modern infrastructure challenges. Currently, I am bridging the gap between logistics and code.
+I am a 2nd-year Master's student at the **Faculty of Transport, National University of Science and Technology Politehnica Bucharest (UNSTPB)**. I am passionate about how technology can solve modern infrastructure challenges. Currently, I am bridging the gap between transportation and code.
 
 ---
 
